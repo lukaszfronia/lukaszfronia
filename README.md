@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukaszfronia
 - 🍰 I'm 23 years old
-- 👀 I’m interested in HTML CSS JavaScript
+- 👀 I’m interested in HTML CSS JavaScript and also computer games
 - 🌱 I’m currently learning React and TypeScript
 
 
